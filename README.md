@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://smartsave-landing.vercel.app">🔗 Ver landing / demo interactivo</a>
+  <a href="https://smartsave.webtrader.trade/">🔗 Ver landing / demo interactivo</a>
 </p>
 
 > 🔒 **El código fuente de este proyecto es privado.** Este repositorio es una vista general (arquitectura, features, capturas) para portafolio. Código disponible bajo solicitud en una entrevista.
