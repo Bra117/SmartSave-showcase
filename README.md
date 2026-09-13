@@ -13,9 +13,18 @@
   <a href="https://smartsave-landing.vercel.app">🔗 Ver landing / demo interactivo</a>
 </p>
 
-> 🔒 **El código fuente de este proyecto es privado.** Este repositorio es una vista general (arquitectura, features) para portafolio. Código disponible bajo solicitud en una entrevista.
+> 🔒 **El código fuente de este proyecto es privado.** Este repositorio es una vista general (arquitectura, features, capturas) para portafolio. Código disponible bajo solicitud en una entrevista.
 
 ---
+
+## Capturas reales
+
+<p align="center">
+  <img src="screenshots/hero.png" width="600" /><br/>
+  <img src="screenshots/conversor.png" width="290" />
+  <img src="screenshots/gastos-categoria.png" width="290" /><br/>
+  <img src="screenshots/features.png" width="600" />
+</p>
 
 ## Qué hace
 
